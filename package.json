@@ -1,0 +1,23 @@
+{
+  "name": "Web-Scraping-NodeJS-Puppeteer",
+  "version": "1.0.0",
+  "description": "Web Scraping With NodeJS and Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VardanMelik/Web-Scraping-With-NodeJS-and-Puppeteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VardanMelik/Web-Scraping-With-NodeJS-and-Puppeteer/issues"
+  },
+  "homepage": "https://github.com/VardanMelik/Web-Scraping-With-NodeJS-and-Puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
